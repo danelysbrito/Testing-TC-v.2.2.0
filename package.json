@@ -1,0 +1,25 @@
+{
+  "name": "testcafe-v2.2.0-released",
+  "version": "1.0.0",
+  "description": "Testing TC v.2.2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danelysbrito/Testing-TC-v.2.2.0.git"
+  },
+  "keywords": [
+    "TestCafe"
+  ],
+  "author": "Danelys Brito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danelysbrito/Testing-TC-v.2.2.0/issues"
+  },
+  "homepage": "https://github.com/danelysbrito/Testing-TC-v.2.2.0#readme",
+  "devDependencies": {
+    "testcafe": "^2.2.0"
+  }
+}
